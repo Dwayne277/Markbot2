@@ -11,22 +11,22 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your Jinwoo session id here; must start with MALVIN-XD~",
+      "description": "MALVIN-XD~plJ2mRLS#bcQkBZe8vpOWQxKOvLaLvPWfAjsdFhMSfh9M1IfNGuM",
       "value": "",
-      "required": false
+      "required" : false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "MARKZA",
       "value": "ᴊɪɴᴡᴏᴏ-ʙᴏᴛ",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 2637xxxxxxxx",
+      "description": "254724394091",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "MARK",
       "value": "",
       "required": true
     },
